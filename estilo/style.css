@@ -9,7 +9,7 @@ body {
 
 main {
   background-color: white;
-  width: 600px;
+  width: 560px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.43);
   margin: auto;
   padding: 10px;
@@ -33,4 +33,24 @@ a {
 
 a:hover {
   color:rgb(243, 136, 136);
+}
+
+img.lado {
+  float: right;
+  padding: 10px;
+  margin-top: -6px;
+}
+
+img.lado1 {
+  float: left;
+  margin-left: 7rem;
+  margin-top: -50px;
+  padding: 0px 0px 10px 20px;
+}
+
+img.lado2 {
+  float: left;
+  margin-left: 1.5rem;
+  margin-top: -60px;
+  padding: 0px 0px 10px 20px;
 }

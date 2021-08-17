@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: rgb(243, 136, 136);
+  background-color: rgb(136, 200, 243);
   text-align: justify;
 }
 
@@ -17,12 +17,12 @@ main {
 
 h1 {
   font-size: 1.5em;
-  color: rgb(243, 136, 136);
+  color: rgb(27, 116, 175);
 }
 
 h2 {
   font-size: 1.1em;
-  color: rgb(243, 136, 136);
+  color: rgb(136, 200, 243);
 }
 
 a {
@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color:rgb(243, 136, 136);
+  color:rgb(136, 200, 243);
 }
 
 img.lado {
